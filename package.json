@@ -2,11 +2,11 @@
   "name": "SPEED-MD",
   "version": "2.0.0",
   "description": "",
-  "main": "flash.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node flash.js",
-    "flash": "pm2 start flash.js --attach",
+    "test": "node index.js",
+    "s": "node index.js",
+    "speed": "pm2 start index.js --attach",
     "c": "tsc"
     },
   "keywords": [
@@ -75,7 +75,7 @@
     "wa-sticker-formatter": "^4.4.4",
     "youtube-yts": "^2.0.0",
     "youtubedl-core": "^4.11.7",
-    "franceking": "github:HyHamza/TalkDrove-yt-dl-core",
+    "DYBY": "github:HyHamza/TalkDrove-yt-dl-core",
     "yt-search": "^2.10.4",
     "DYBY-TRUE": "npm:@distube/ytdl-core@latest"
 
