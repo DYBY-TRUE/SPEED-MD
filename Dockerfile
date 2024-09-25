@@ -9,17 +9,16 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN  git clone https://github.com/DYBY-TRUE/SPEED-MD.  /root/Speed_BOt
+RUN git clone https://github.com/DYBY-TRUE/SPEED-MD  /root/Speed_BOt
 WORKDIR /root/Speed_Bot/
-
 
 
 COPY package.json .
 RUN npm install pm2 -g
-RUN npm install --legacy-peer-deps
+RUN npm install
 
 COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "speed.js"]
+CMD ["npm", "run" , "web"]
