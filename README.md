@@ -8,12 +8,12 @@
     <img alt="SPEED-MD" width="700" height="300" src="https://img.freepik.com/photos-premium/dessin-eclair-mot-foudre-dessus_779834-2033.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/DYBY-TRUE/SPEED-MD"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DYBY-TRUE/SPEED-MD"><img title="Author" src="https://img.shields.io/badge/SPEED_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/DYBY-TRUE?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/DYBY-TRUE?label=Followers&style=social"></a>
 <a href="https://github.com/DYBY-TRUE/SPEED-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/DYBY-TRUE/SPEED-MD?&style=social"></a>
-<a href="https://github.com/DYBY-TRUE/SPEED-MD-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DYBY-TRUE/SPEED-MD?style=social"></a>
+<a href="https://github.com/DYBY-TRUE/SPEED-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DYBY-TRUE/SPEED-MD?style=social"></a>
 <a href="https://github.com/DYBY/SPEED-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DYBY-TRUE/SPEED-MD?label=Watching&style=social"></a>
   
 ***
