@@ -37,5 +37,5 @@
     <a href="https://app.koyeb.com/auth/signup">
     <img src="https://img.shields.io/badge/Create%20Account%20Now-black?style=for-the-badge&logo=koyeb" width="220" height="38.45"/></a></p>
   
-2.      [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=zokouve&type=docker&image=docker.io%2FDYBY-TRUE077%2FSpeedve%3Alatest&env%5BPREFIX%5D=.&env%5BAUTO_READ_STATUS%5D=yes&env%5BAUTO_DOWNLOAD_STATUS%5D=yes&env%5BPM_PERMIT%5D=no&env%5BBOT_NAME%5D=SPEED-MD&env%5BBOT_MENU_LINKS%5D=https://img.freepik.com/photos-premium/dessin-eclair-mot-foudre-dessus_779834-2033.jpg&env%5BPUBLIC_MODE%5D=yes&env%5BDATABASE_URL%5D=create+on+koyeb&env%5BOWNER_NAME%5D=DYBY-TECH%2B%2B&env%5BNUMERO_OWNER%5D=50934960331&env%5BWARN_COUNT%5D=3&env%5BSTARTING_BOT_MESSAGE%5D=yes&env%5BPRESENCE%5D=3&env%5BPM_CHATBOT%5D=no&env%5BSESSION_ID%5D=put+your+session&env%5BANTI_VIEW_ONCE
+   2. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=bun-on-koyeb&type=git&repository=koyeb%2Fexample-bun&branch=main&builder=dockerfile&env%5B%5D=&ports=8000%3Bhttp%3B%2F)
    
