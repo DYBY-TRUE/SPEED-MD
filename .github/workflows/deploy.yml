@@ -7,6 +7,8 @@ on:
   pull_request:
     branches:
       - main
+  schedule:
+    - cron: '0 */4 * * *'
 
 jobs:
   build:
@@ -27,7 +29,11 @@ jobs:
         node-version: ${{ matrix.node-version }}
 
     - name: Install dependencies
-      run: npm install -g pm2 && npm i --legacy-peer-deps
+      run: |
+        npm install -g pm2
+        npm install
 
-    - name: Start application
-      run: npm run 
+    - name: Start application with timeout
+      run: |
+        timeout 14520s npm run zokou
+
